@@ -1,8 +1,7 @@
 ### Hi there, I'm Vince 👋
 
-## I'm a software Developer!
-- 🔭 Currently working as a Data Scientist 💸
-- 🌱 Deep learning hobbyist, researcher & practitioner 🤓
+## I'm a Deep learning practitoner, hobbyist & researcher!
+- 🔭 Currently building and deploying models on edge devices
 - 💬 How to reach me: vincivenv@gmail.com, @darctrac3 on twitter
 - 🤔 Ask me about Deep learning, Pytorch, React, Flutter or any tech related stuff
 
