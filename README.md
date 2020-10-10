@@ -20,7 +20,7 @@
 
 ---
 
-<img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=stars,prs" />
+<img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=stars" />
 
 
 [pytorch]: https://pytorch.org/
