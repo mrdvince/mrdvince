@@ -8,12 +8,11 @@
 <br />
 
 ### Languages and Tools:
-
-- &ensp; Flutter [<img align="left" alt="Flutter" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]<br /><br />
-- &ensp; Python [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]<br /><br />
-- &ensp; Powerbi [<img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]<br /><br />
-
 - &ensp; Pytorch [<img align="left" alt="Pytorch" width="26px" src="https://avatars2.githubusercontent.com/u/21003710?s=400&v=4" />][pytorch]
+- &ensp; Powerbi [<img align="left" alt="powerbi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png" />][powerbi]
+- &ensp; Python [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]
+- &ensp; Twilio [<img align="left" alt="Twilio" width="26px" src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" />][twilio]
+- &ensp; Flutter [<img align="left" alt="Flutter" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]
 
 <br />
 
@@ -23,6 +22,7 @@
 
 
 [pytorch]: https://pytorch.org/
+[twilio]: https://www.twilio.com/
 [python]: https://www.python.org
 [powerbi]: https://powerbi.microsoft.com/en-us/
 [flutter]: https://flutter.dev
