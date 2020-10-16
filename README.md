@@ -23,10 +23,3 @@
 ---
 
 <img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
-
-
-[pytorch]: https://pytorch.org/
-[twilio]: https://www.twilio.com/
-[python]: https://www.python.org
-[powerbi]: https://powerbi.microsoft.com/en-us/
-[flutter]: https://flutter.dev
