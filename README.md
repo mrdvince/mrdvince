@@ -1,6 +1,6 @@
 ### Hi there, I'm Vince 👋
 
-## A Data Scentist, Deep Learning Practitoner & researcher!
+## A Data Scientist, Deep Learning Practitoner & researcher!
 - 🔭 Currently building and deploying models on edge devices
 - 💬 How to reach me: vincivenv@gmail.com, @darctrac3 on twitter
 - 🤔 Ask me about Deep learning, Pytorch, React, Flutter or any tech related stuff
