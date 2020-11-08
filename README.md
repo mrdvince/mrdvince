@@ -8,7 +8,7 @@ I'm a Software Engineer. I'm a lover of Python, Node, Docker, and building cool 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Droid021-black)](https://github.com/Droid021)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-v3nvince-blue)](https://www.linkedin.com/in/v3nvince/)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/11599692/droid?tab=profile)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-Droid-orange)](https://stackoverflow.com/users/11599692/droid?tab=profile)
 [![Twitter](https://img.shields.io/twitter/follow/darctrac3?style=plastic)](https://twitter.com/darctrac3)
 
 
