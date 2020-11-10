@@ -1,6 +1,6 @@
 # Hey, I'm Vince 👋
 
-### Deep Learning Practitoner, Software Engineer, & IT Professional
+### Deep Learning Engineer, Software Engineer, & IT Professional
 
 I'm a Software Engineer, Lover of Python, Node, Docker, and building cool stuff especially using Deep learning.
 - 🔭 Currently working on a sas to python compiler, building and deploying models on edge devices
