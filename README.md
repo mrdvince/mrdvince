@@ -2,7 +2,7 @@
 
 ### Deep Learning Practitoner, Software Engineer, & IT Professional
 
-I'm a Software Engineer. I'm a lover of Python, Node, Docker, and building cool stuff especially using Deep learning.
+I'm a Software Engineer, Lover of Python, Node, Docker, and building cool stuff especially using Deep learning.
 - 🔭 Currently working on a sas to python compiler, building and deploying models on edge devices
 - 🤔 Ask me about Deep learning, Pytorch, React, Flutter or any tech related stuff
 
