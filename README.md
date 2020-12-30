@@ -1,9 +1,9 @@
 # Hey, I'm Vince 👋
 
-### Deep Learning Engineer, Software Engineer, & IT Professional
+### Machine Learning Engineer, Software Engineer, & IT Professional
 
-A Software Engineer, Into Python, Node, Docker, and building cool stuff especially using Deep learning.
-- 🤔 Ask me about Deep learning, Pytorch, React, Flutter or any tech related stuff
+Into Python, Node, Docker, and building cool stuff especially using Deep learning.
+- 🤔 Ask me about Deep learning, Pytorch, Flutter or any tech related stuff
 
 [![GitHub](https://img.shields.io/badge/GitHub-Droid021-black)](https://github.com/Droid021)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-v3nvince-blue)](https://www.linkedin.com/in/v3nvince/)
