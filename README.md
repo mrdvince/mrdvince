@@ -11,4 +11,4 @@ Into Python, Node, Docker, and building cool stuff especially using Deep learnin
 [![Twitter](https://img.shields.io/twitter/follow/darctrac3?style=plastic)](https://twitter.com/darctrac3)
 
 
-<img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
+<img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=contribs,issues&count_private=true&include_all_commits=false" />
