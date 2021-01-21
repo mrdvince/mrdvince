@@ -3,7 +3,7 @@
 
 ## Hey, I'm Vince 👋
 
-### Machine Learning Engineer (Like to think of myself as One)
+### Machine Learning Engineer
 Into Python, Node, Docker (docker is awesome), Flutter and building cool stuff especially with deep learning.
 - 🤔 Ask me about Deep learning, Pytorch, Flutter or any tech related stuff
 - 🤝 Open for collaborations in deep learning.
