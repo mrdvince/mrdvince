@@ -24,7 +24,6 @@
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=mrdvince.mrdvince&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
-">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=mrdvince.mrdvince&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
 <a>
 
