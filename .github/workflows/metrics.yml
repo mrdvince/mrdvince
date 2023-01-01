@@ -15,7 +15,7 @@ jobs:
 
           # Core
           user: mrdvince
-          config_timezone: Africa/Nairobi
+          config_timezone: Europe/Amsterdam
           committer_message: "chore: update metrics"
           
           template: classic
