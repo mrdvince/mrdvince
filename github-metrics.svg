@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="602" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="585" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">|  Jack of Some Trades  |  Uncovering dev gems on this small corner of the internet |</div>
+                        <div class="introduction">|  Jack of Some Trades  |</div>
                     </section>
                 </div>
             </section>
